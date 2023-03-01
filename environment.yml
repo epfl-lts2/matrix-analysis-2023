@@ -1,4 +1,4 @@
-name: matrix-analysis-2022
+name: matrix-analysis-2023
 channels:
   - defaults
   - conda-forge
